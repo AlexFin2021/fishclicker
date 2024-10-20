@@ -1,0 +1,17 @@
+canvas {
+    border : 1px solid black;
+    background-size: cover;
+}
+body {
+    margin: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.header{
+    text-align: center;
+}
+.no-scroll {
+    overflow: hidden;
+}
